@@ -81,3 +81,9 @@ func ifElseif() {
 		fmt.Println("a<b")
 	}
 }
+
+func strings() {
+	var a string
+	a = " i am aditya singh"
+	fmt.Println(strings.Split(a, " ")[1])
+}
