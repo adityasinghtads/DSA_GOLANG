@@ -50,6 +50,7 @@ func switchCase() {
 	fmt.Println("Entering Switch Case function")
 	a := 0
 	fmt.Scanln(a)
+	// using switch case function..
 	switch a {
 	case 1:
 		fmt.Println("It is in First case")
@@ -67,4 +68,16 @@ func switchCase() {
 		fmt.Println(a)
 	}
 
+}
+
+func ifElseif() {
+	var a int
+	var b int
+	if a > b {
+		fmt.Println("a>b")
+	} else if a == b {
+		fmt.Println("a==b")
+	} else {
+		fmt.Println("a<b")
+	}
 }
