@@ -24,7 +24,8 @@ func CalculateCost(carsCount int) uint {
         var a int 
     	a= carsCount%10
     	UpdatedCarsCount:=carsCount-a
-    }elif carsCost =10{
+    }
+		carsCost =10{
     
     }else{
     
