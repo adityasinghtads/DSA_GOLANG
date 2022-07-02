@@ -1,0 +1,25 @@
+Why GoLang?
+- It seems Interesting how Go has came into picture of Coding world..! 
+
+Talking about Go when the language was developed, the world revolved around 3 major languages. 
+1. C/C++
+2. Java 
+3. Python 
+
+Now, seeing the nature of these three languages, Google saw there were issues from wach of these o=languages, when it comes to C/C++ these languages have always have a problem with its slow compliation times,as we move forward into the future the time will eventually increase as a result of various old code and to maintain the legacy. 
+On the other hand when it comes to Python, python is a interpreted language, which is easy to write but always too slow, it takes quite a time to complile. Not just being slow there were alwas chances to have various breakdown during active and high use of the language. 
+Then coming to Java, it has been the great language in quite a about of time, but the drawback thaken from Java was with time this language became too complex to understand ad study.
+
+Now apart from all these when we talk about Go when it came into picture, There was no language supporting Multi threading, apart from that Google wanted to have a language to support multi thrading, which is not too complex and easy to understand and a system level language. 
+
+So, Go eventually came into picture.
+
+- Strong and Statically type language. 
+- Excellent Community 
+--Simplicity 
+-- Fast compliation time 
+-- Garbage collected 
+-- Built-in concurrency 
+-- Compile to standalone binaries 
+
+
